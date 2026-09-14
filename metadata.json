@@ -1,0 +1,6 @@
+{
+  "name": "Surprise Journey - Roommate Birthday",
+  "description": "An interactive digital birthday celebration and memory journey app for a roommate featuring a candle-blowing ritual, milestones timeline, synergy mini-game, memory archive, audio soundtrack, and gift unboxing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
